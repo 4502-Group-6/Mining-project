@@ -23,7 +23,7 @@ By understanding why and when cancellations occur, hotel managers can:
 - Operational Efficiency: Better forecast staffing and resource needs by anticipating no-shows, ensuring smoother day-to-day operations and enhanced guest experiences.
 
 # Link to the video demonstration
-- 
+[LINK](Group6_PredictingCancellations_Part6_Video.mp4)
 
 # Link to your final project paper
-- 
+[LINK]()
