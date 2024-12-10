@@ -26,4 +26,4 @@ By understanding why and when cancellations occur, hotel managers can:
 [LINK](Group6_PredictingCancellations_Part6_Video.mp4)
 
 # Link to your final project paper
-[LINK]()
+[LINK](Group6_PredictingCancellations_Part4.pdf)
